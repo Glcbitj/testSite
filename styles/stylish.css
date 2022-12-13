@@ -1,0 +1,65 @@
+.box-border{
+    border: 5px solid;
+    border-color: cornflowerblue;
+    width: 1100px;
+}
+
+.box-loading-inner{
+    background-color: green;
+    color: wheat;
+    padding: 5px;
+    width: calc(90% - 50px);
+}
+
+body{
+    background-image: url(../images/starfield.png);
+}
+
+h1{
+	border-bottom: goldenrod dashed;
+    color: darkslateblue;
+}
+
+li{
+    color: silver;
+}
+
+.stylish-border{
+    border: 8px;
+    border-style: double;
+    border-color: wheat;
+    width: 18%;
+    background-color: maroon;
+}
+
+#D{
+    font-size: xx-small;
+}
+
+#C{
+    font-size: x-small;
+}
+
+#B{
+    font-size: small;
+}
+
+#A{
+    font-size: medium;
+}
+
+#S{
+    font-size: large;
+}
+
+#SS{
+    font-size: x-large;
+}
+
+#SSS{
+    font-size: xx-large;
+}
+
+.style-list{
+
+}

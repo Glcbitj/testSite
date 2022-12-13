@@ -1,0 +1,35 @@
+#p2{
+	color: red;
+	width: 500px;
+	border: 1px solid black;
+}
+
+#p3:hover{   /*the ":hover" thingy makes it so it only happens when the mouse pointer is over it*/
+	color: blue;
+}
+
+#firefox-icon{
+	width: 200px; /*Makes the image smaller/bigger, proportionally*/
+}
+
+body{
+	background-image: url("../images/wood-wall.png");
+}
+
+.classy{
+	color:gold;
+}
+
+li.classy{
+	color:silver;
+}
+
+h1{
+	border-bottom: goldenrod dashed;
+}
+
+.right{
+	position: fixed;
+	right: 0;
+	top: 10%;
+}
